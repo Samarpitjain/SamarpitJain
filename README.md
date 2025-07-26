@@ -32,6 +32,8 @@ I am Samarpit Jain, currently pursuing B.tech in Computer Science and ebgineerin
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="python logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
 </div>
 
 ###
