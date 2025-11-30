@@ -6,7 +6,7 @@
 
 <h2>About me</h2>
 
-I am Samarpit Jain, currently pursuing B.tech in Computer Science and ebgineering from Walchand Institute of Technology Solapur. I am very keen to learn new technologies and use them to either create something useful or improve the existing softwares.   
+I am Samarpit Jain, pursuing B.tech in Computer Science and ebgineering from Walchand Institute of Technology Solapur. I am very keen to learn new technologies and use them to either create something useful or improve the existing softwares.   
 ⚡ Fun fact: I love to connect with people and learn about their journey, it helps me to open up my mind for different perspectives on various domains.   
 💬 Ask me anything, I will be more than happy to help.
 
